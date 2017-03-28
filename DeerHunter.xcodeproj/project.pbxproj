@@ -13,6 +13,7 @@
 		6CF5C83D1E8AEE5700EE6F01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CF5C83C1E8AEE5700EE6F01 /* Assets.xcassets */; };
 		6CF5C8401E8AEE5700EE6F01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CF5C83E1E8AEE5700EE6F01 /* LaunchScreen.storyboard */; };
 		6CF5C84A1E8AF75C00EE6F01 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF5C8491E8AF75C00EE6F01 /* Cat.swift */; };
+		6CF5C8481E8AF40500EE6F01 /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF5C8471E8AF40500EE6F01 /* Dog.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6CF5C83F1E8AEE5700EE6F01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6CF5C8411E8AEE5700EE6F01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6CF5C8491E8AF75C00EE6F01 /* Cat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
+		6CF5C8471E8AF40500EE6F01 /* Dog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				6CF5C8351E8AEE5700EE6F01 /* AppDelegate.swift */,
 				6CF5C8371E8AEE5700EE6F01 /* ViewController.swift */,
+				6CF5C8471E8AF40500EE6F01 /* Dog.swift */,
 				6CF5C8391E8AEE5700EE6F01 /* Main.storyboard */,
 				6CF5C83C1E8AEE5700EE6F01 /* Assets.xcassets */,
 				6CF5C83E1E8AEE5700EE6F01 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				6CF5C8381E8AEE5700EE6F01 /* ViewController.swift in Sources */,
 				6CF5C8361E8AEE5700EE6F01 /* AppDelegate.swift in Sources */,
 				6CF5C84A1E8AF75C00EE6F01 /* Cat.swift in Sources */,
+				6CF5C8481E8AF40500EE6F01 /* Dog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
